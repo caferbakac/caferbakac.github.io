@@ -1,0 +1,20 @@
+---
+title: "Implicit and Explicit Motives"
+description: "Invited talk, Bilkent University Psychology Community"
+author: "Cafer Bakaç"
+date: "2022-04-01"
+categories:
+  - Invited Talk
+  - Implicit Motives
+  - Motivation
+link-external-newwindow: true
+---
+
+**Event:** Invited talk for the Bilkent University Psychology Community\
+**Location:** Bilkent University, Ankara, Turkey
+
+## Context
+
+An introduction to the two-system view of human motivation: what implicit and explicit
+motives are, how they are measured, why they so often diverge within the same person, and
+what that divergence predicts for behavior and wellbeing at work.

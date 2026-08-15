@@ -1,0 +1,49 @@
+---
+pagetitle: "Teaching | Cafer Bakaç"
+title: "Teaching"
+toc: true
+toc-title: "On this page"
+---
+
+I teach quantitative methods and organizational behavior at the [TUM School of
+Management](https://www.mgt.tum.de/) and supervise bachelor's and master's theses on
+motivation, negotiation, and personnel selection.
+
+## Courses
+
+### Introduction to Statistics Using R
+
+*Lecture, master's programme — since 2020*
+
+An applied introduction to statistical analysis in R for students without a programming
+background: data handling, estimation and inference, regression, and the reporting
+conventions of empirical management research.
+
+### Organizational Behavior
+
+*Co-teaching, bachelor's programme — since 2019*
+
+Core theory and evidence on motivation, leadership, teams, and decision making in
+organizations.
+
+## Thesis supervision
+
+Since 2019 I have supervised more than 30 master's theses and 5 bachelor's theses.
+
+Topics I am glad to supervise include implicit and explicit motives, negotiation behavior,
+personnel decisions and selection, perceived listening at work, and social networks in
+organizations, as well as methodological projects in R. If you would like to work on
+something in this space, e-mail me at [cafer.bakac@tum.de](mailto:cafer.bakac@tum.de) with
+a short description of the question you want to pursue.
+
+## Workshops
+
+I also run methods workshops for researchers and practitioners — see the
+[workshops page](../workshops/index.qmd).
+
+## Professional experience
+
+**Part-time Data Scientist / Data Analyst** — Kavun GmbH, Munich (since 2019)
+
+**Freelance data analytics and Bayesian mixed modeling** — Serviceplan Group, Munich
+(April–October 2022; July–October 2024)

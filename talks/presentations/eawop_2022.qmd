@@ -1,0 +1,18 @@
+---
+title: "Linking implicit motives and explicit motives with negotiation outcomes"
+description: "20th EAWOP Conference, Glasgow"
+author: "Cafer Bakaç"
+date: "2022-01-11"
+categories:
+  - Conference
+  - Negotiation
+  - Implicit Motives
+link-external-newwindow: true
+---
+
+**Event:** 20th Conference of the European Association of Work and Organizational Psychology\
+**Location:** Glasgow, Scotland\
+**Authors:** Bakaç, C., Kehr, H. M., & Lang, J. W. B.\
+**Symposium:** Implicit personality measurement in WOP (Chairs: M. Runge & J. W. B. Lang)
+
+*The conference was cancelled due to COVID-19.*

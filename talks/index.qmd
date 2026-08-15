@@ -1,0 +1,12 @@
+---
+pagetitle: "Talks | Cafer Bakaç"
+listing:
+  - id: talks
+    contents: presentations
+    type: default
+    sort: date desc
+    categories: true
+---
+
+Invited talks and conference presentations on implicit and explicit motives, negotiation,
+personnel decisions, and networks at work.

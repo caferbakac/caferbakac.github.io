@@ -1,0 +1,14 @@
+---
+title: "Be good to one another — Modelling social support temporal interactions in teams"
+description: "81st Annual Meeting of the Academy of Management"
+author: "Cafer Bakaç"
+date: "2021-07-30"
+categories:
+  - Conference
+  - Teams
+  - Methods
+link-external-newwindow: true
+---
+
+**Event:** 81st Annual Meeting of the Academy of Management (virtual)\
+**Authors:** Berg, A., Bakaç, C., Müller-Frommeyer, L. C., & Kauffeld, S.

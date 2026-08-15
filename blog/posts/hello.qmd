@@ -1,0 +1,47 @@
+---
+title: "Why measure what people don't know they want"
+description: "A short first post on implicit motives — and a template you can copy for the next one."
+author: "Cafer Bakaç"
+date: "2026-08-15"
+categories:
+  - Implicit Motives
+  - Notes
+---
+
+Ask people what motivates them at work and they will tell you something coherent: autonomy,
+impact, recognition, a fair salary. Those answers are explicit motives, and they are real —
+they predict the goals people set and the jobs they apply for.
+
+They are also incomplete. Alongside those conscious preferences sits a second system:
+affective preferences that develop early, operate outside awareness, and predict a different
+class of outcomes — spontaneous behavior, persistence, and how energizing an activity feels
+rather than how sensible it seems. The two systems correlate weakly at best. A person can
+sincerely want a leadership role while their implicit power motive is low, and the mismatch
+shows up later as fatigue rather than as a change of mind.
+
+That gap is the part of my work I find most interesting. It is not that people misreport
+their motives; it is that self-report can only reach one of the two systems. Which raises a
+practical problem: the indirect measures that reach the other one are expensive to score,
+which is why motive research has stayed small-sample for decades. Whether large language
+models can change that is the question I am working on now.
+
+## Adding your own posts
+
+Copy this file into `blog/posts/`, rename it, and edit the front matter:
+
+``` yaml
+---
+title: "Your title"
+description: "One or two sentences shown in the blog listing."
+author: "Cafer Bakaç"
+date: "2026-09-01"
+categories:
+  - Methods
+  - R
+---
+```
+
+Everything below the front matter is Markdown. You can also include an `image:` field to
+show a thumbnail in the listing, and — because this is Quarto rather than a plain Markdown
+site — you can run R or Python code chunks directly in a post and have the output rendered
+into the page.

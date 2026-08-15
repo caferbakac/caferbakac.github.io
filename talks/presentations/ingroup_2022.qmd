@@ -1,0 +1,15 @@
+---
+title: "Looking at the bright side of “Tit for Tat”: Congruence effects of social support in teams"
+description: "17th Annual INGRoup Conference, Hamburg"
+author: "Cafer Bakaç"
+date: "2022-07-01"
+categories:
+  - Conference
+  - Poster
+  - Teams
+link-external-newwindow: true
+---
+
+**Event:** 17th Annual INGRoup Conference (poster presentation)\
+**Location:** Hamburg, Germany\
+**Authors:** Berg, A.-K., Bakaç, C., & Kauffeld, S.

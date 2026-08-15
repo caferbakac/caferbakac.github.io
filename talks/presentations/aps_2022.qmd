@@ -1,0 +1,16 @@
+---
+title: "A registered systematic review and meta-analyses of the associations of perceived listening and job outcomes"
+description: "2022 APS Annual Convention, Chicago"
+author: "Cafer Bakaç"
+date: "2022-05-26"
+categories:
+  - Conference
+  - Meta-Analysis
+  - Listening
+link-external-newwindow: true
+---
+
+**Event:** 2022 Association for Psychological Science Annual Convention\
+**Location:** Chicago, IL, USA\
+**Authors:** Kluger, A. N., Lehmann, M., Aguinis, H., Itzchakov, G., Gordoni, G., Zyberaj, J., & Bakaç, C.\
+**Symposium:** Listening (or Not) at Work: The Consequences (Chair: A. N. Kluger)

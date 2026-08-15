@@ -1,0 +1,20 @@
+---
+title: "An Introduction to Measurement and R"
+description: "Workshop"
+author: "Cafer Bakaç"
+date: "2021-05-01"
+categories:
+  - Workshop
+  - R
+  - Measurement
+link-external-newwindow: true
+---
+
+**Event:** Training workshop for Hayata Destek Ol (humanitarian organization)\
+**Location:** Online
+
+## Context
+
+A hands-on introduction for practitioners with no prior programming experience: what
+measurement means in practice, how to think about reliability and validity when designing
+short instruments, and how to get from raw responses to usable results in R.

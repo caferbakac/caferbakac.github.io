@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "CAFER BAKAÇ"
+  open-graph: true
+  page-footer: "Made with ❤️ and Quarto"
+  navbar:
+    right:
+      - href: publications/index.qmd
+        text: PUBLICATIONS
+
+      - href: talks/index.qmd
+        text: TALKS
+
+      - href: workshops/index.qmd
+        text: WORKSHOPS
+
+      - href: teaching/index.qmd
+        text: TEACHING
+
+      - href: blog/index.qmd
+        text: BLOG
+
+      - href: CV/index.qmd
+        text: CV
+
+    tools:
+      - icon: envelope
+        href: mailto:cafer.bakac@tum.de
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=REPLACE_ME
+      - icon: linkedin
+        href: https://www.linkedin.com/in/REPLACE_ME/
+      - icon: github
+        href: https://github.com/caferbakac
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

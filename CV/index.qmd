@@ -1,0 +1,99 @@
+---
+pagetitle: "CV | Cafer Bakaç"
+title: "Curriculum Vitae"
+toc: true
+toc-title: "On this page"
+---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+:::{.text-center}
+[<i class="fas fa-download"></i> Download full CV (PDF)](Cafer-Bakac-CV.pdf){.btn .btn-sm .btn-download-cv}
+:::
+
+## Academic positions
+
+**Postdoctoral Researcher** — Technical University of Munich, Germany \
+*2023 — present*
+
+**Research Associate and Lecturer** — Technical University of Munich, Germany \
+*2019 — 2023*
+
+**Called for tenured Associate Professor of Organizational Behavior** — Oslo Business
+School, Oslo Metropolitan University \
+*2023*
+
+## Visiting scholar activities
+
+**College of Business**, State University of New York at Stony Brook \
+*April — August 2025 · Host: Prof. Dr. Manuel London*
+
+**Faculty of Psychology and Educational Sciences**, University of Ghent \
+*April — June 2022 · Host: Prof. Dr. Jonas Lang*
+
+## Education
+
+**Ph.D. in Motivational and Organizational Psychology** — TUM School of Management,
+Technical University of Munich \
+*2019 — 2023*
+
+> Dissertation: *Implicit and Explicit Motives at Work: Incremental Validity Beyond Big
+> Five Traits and Negative Effects of Their Incongruence.* Committee: Hugo M. Kehr
+> (supervisor), Jutta Roosen, Isabell M. Welpe.
+
+**M.Sc. in Psychology: Learning Sciences** — Ludwig-Maximilians-University, Munich \
+*2016 — 2018*
+
+**M.Ed. in Research on Teaching and Learning** — Technical University of Munich \
+*2015 — 2017*
+
+**B.Sc. in Psychology** — Middle East Technical University, Ankara \
+*2010 — 2015*
+
+## Honors, awards, and grants
+
+**German Research Foundation (DFG) funding application** — 2026 \
+Research project at the intersection of motivation psychology and generative artificial
+intelligence (approx. €350,000).
+
+**Research stay funding, University of Ghent** — 2022 \
+Faculty of Psychology and Educational Sciences (host: Prof. Dr. Jonas Lang), €3,100.
+
+**Academy of Management Best Paper Award, OB Division** — 2020 \
+"Implicit motives as the missing link between transformational leadership behaviors and
+follower outcomes."
+
+## Professional service
+
+**Reviewer** — Cogent Business & Management; Academy of Management Annual Meeting;
+Motivation and Emotion; Human Resource Management Journal
+
+**Ad hoc reviewer** — Motivation Science; German Journal of Human Resource Management;
+Personality and Social Psychology Bulletin
+
+**Memberships** — Deutsche Gesellschaft für Psychologie (DGPs); European Association of
+Work and Organizational Psychology (EAWOP)
+
+## Selected collaborators
+
+Herman Aguinis (George Washington University) · Jonas W. B. Lang (Ghent University and
+University of Exeter) · Avraham N. Kluger (The Hebrew University of Jerusalem) · Simone
+Kauffeld (TU Braunschweig) · Manuel London (Stony Brook University) · Hugo M. Kehr (TUM) ·
+Karoline Strauss (ESSEC Business School Paris) · Markus Quirin (PFH Göttingen and TUM)
+
+## Languages and software
+
+**Languages** — Kurdish (native), Turkish (native), English (fluent), German (fluent)
+
+**Software** — R, Python, SPSS, JASP
+
+## References
+
+**Prof. Dr. Hugo M. Kehr** — TUM School of Management, Technical University of Munich \
+[kehr@tum.de](mailto:kehr@tum.de)
+
+**Prof. Dr. Manuel London** — College of Business, State University of New York at Stony Brook \
+[Manuel.London@stonybrook.edu](mailto:Manuel.London@stonybrook.edu)
+
+**Prof. Dr. Karoline Strauss** — Department of Management, ESSEC Business School \
+[strauss@essec.edu](mailto:strauss@essec.edu)

@@ -1,0 +1,536 @@
+---
+pagetitle: "Publications | Cafer Bakaç"
+css: publications.css
+toc: true
+toc-title: "On this page"
+---
+
+::: {.pub-page}
+
+```{=html}
+<div class="pub-hero">
+  <p class="pub-eyebrow">Research Outputs</p>
+  <p class="pub-hero-sub">Peer-reviewed articles on implicit and explicit motives, negotiation,
+  personnel decisions, and quantitative methods for organizational research</p>
+</div>
+```
+
+## Journal Articles
+
+```{=html}
+<!-- ===== PAPER CARD =====
+     To add a paper, copy one whole <div class="pub-card"> ... </div> block and edit it.
+     A card with a DOI in data-href links straight to the paper; leave data-href empty
+     and fill data-msg to show a short message on click instead. -->
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Theory X and Y revisited: Examining their predictive power in sales, promotions, and job terminations</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, &amp; Kehr, H. M.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Current Psychology</span>&nbsp;&middot;&nbsp;in press
+        <span class="pub-status">Accepted</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="A copy is available on request — please e-mail me.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Automatic thoughts mediate the relationship between social appearance anxiety and attitudes toward cosmetic surgery</h3>
+      <p class="pub-authors">Durar, E., Şöhret, T., &amp; <strong>Bakaç, C.</strong></p>
+      <p class="pub-meta">
+        <span class="pub-journal">BMC Psychology</span>&nbsp;&middot;&nbsp;in press
+        <span class="pub-status">Accepted</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="A copy is available on request — please e-mail me.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">A registered systematic review and meta-analyses of the associations of perceived listening and job outcomes</h3>
+      <p class="pub-authors">Kluger, A. N., Lehmann, M., Aguinis, H., Itzchakov, G., Gordoni, G., Zyberaj, J., &amp; <strong>Bakaç, C.</strong></p>
+      <p class="pub-meta">
+        <span class="pub-journal">Journal of Business and Psychology</span>&nbsp;&middot;&nbsp;2024
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.1007/s10869-023-09897-5" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.1007/s10869-023-09897-5">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Getting to the bargaining table: The role of explicit motives and traits in negotiation initiation</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, &amp; Kehr, H. M.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Personality and Individual Differences</span>&nbsp;&middot;&nbsp;2023
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.1016/j.paid.2023.112099" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.1016/j.paid.2023.112099">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Unpacking the relationship between fear motives and self-control strategies among managers: The mediating role of intrusive thoughts</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, &amp; Kehr, H. M.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Behavioral Sciences</span>&nbsp;&middot;&nbsp;2023
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.3390/bs13050384" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.3390/bs13050384">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Modeling (in)congruence in groups: A how-to guide for applying polynomial regression and response surface method to multilevel data</h3>
+      <p class="pub-authors">Berg, A. K., <strong>Bakaç, C.</strong>, &amp; Kauffeld, S.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Group Dynamics: Theory, Research, and Practice</span>&nbsp;&middot;&nbsp;2022
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.1037/gdn0000200" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.1037/gdn0000200">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Followers&#x27; motives as moderators of the effects of transformational leadership behaviors on follower outcomes and leaders&#x27; influence</h3>
+      <p class="pub-authors">Kehr, H. M., Graff, D., &amp; <strong>Bakaç, C.</strong></p>
+      <p class="pub-meta">
+        <span class="pub-journal">Journal of Business and Psychology</span>&nbsp;&middot;&nbsp;2022
+        <span class="pub-status">Shared first authorship</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.1007/s10869-022-09826-y" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.1007/s10869-022-09826-y">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Insecure yet resourceful: Psychological capital mitigates the negative effects of career insecurity on subjective career success during COVID-19</h3>
+      <p class="pub-authors">Zyberaj, J., &amp; <strong>Bakaç, C.</strong></p>
+      <p class="pub-meta">
+        <span class="pub-journal">Behavioral Sciences</span>&nbsp;&middot;&nbsp;2022
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.3390/bs12120473" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.3390/bs12120473">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Latent transition analysis in organizational psychology: A simplified “how to” guide by using an applied example</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, Zyberaj, J., &amp; Seibel, S.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Frontiers in Psychology</span>&nbsp;&middot;&nbsp;2022
+        <span class="pub-status">Shared first authorship</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.3389/fpsyg.2022.977378" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.3389/fpsyg.2022.977378">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">The role of death anxiety-induced fear of COVID-19 in compliance with and acceptance of government-issued COVID-19 regulations</h3>
+      <p class="pub-authors">Kehr, H. M., <strong>Bakaç, C.</strong>, Jais, M., Brunner, D., Voigt, J., &amp; Holzemer, L.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Frontiers in Psychology</span>&nbsp;&middot;&nbsp;2022
+        <span class="pub-status">Shared first authorship</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.3389/fpsyg.2022.881603" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.3389/fpsyg.2022.881603">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Predicting employee telecommuting preferences and job outcomes amid COVID-19 pandemic: A latent profile analysis</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, Zyberaj, J., &amp; Barela, J. C.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Current Psychology</span>&nbsp;&middot;&nbsp;2021
+        <span class="pub-status">Shared first authorship</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.1007/s12144-021-02496-8" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.1007/s12144-021-02496-8">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Perceived intrinsic motivation mediates the effect of motive incongruence on job burnout and job satisfaction</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, Chen, Y., Zyberaj, J., Kehr, H. M., &amp; Quirin, M.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">The Journal of Psychology</span>&nbsp;&middot;&nbsp;2021
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.1080/00223980.2021.1980758" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.1080/00223980.2021.1980758">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Misattribution of duties as free choices: The role of emotional awareness in self-infiltration</h3>
+      <p class="pub-authors">Jais, M., <strong>Bakaç, C.</strong>, Kehr, H. M., Baumann, N., &amp; Quirin, M.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Acta Psychologica</span>&nbsp;&middot;&nbsp;2021
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.1016/j.actpsy.2021.103401" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.1016/j.actpsy.2021.103401">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">“My family&#x27;s goals are also my goals”: The relationship between collectivism, distal utility value, and learning and career goals of international university students in Germany</h3>
+      <p class="pub-authors">Mok, S. Y., <strong>Bakaç, C.</strong>, &amp; Froehlich, L.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">International Journal for Educational and Vocational Guidance</span>&nbsp;&middot;&nbsp;2020
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.1007/s10775-020-09447-y" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.1007/s10775-020-09447-y">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Fictional video cases on parent-teacher conversations: Authenticity in the eyes of teachers and teacher education students</h3>
+      <p class="pub-authors">Deng, M., Aich, G., <strong>Bakaç, C.</strong>, &amp; Gartmeier, M.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Education Sciences</span>&nbsp;&middot;&nbsp;2020
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="https://doi.org/10.3390/educsci10030063" target="_blank" rel="noopener"
+         data-href="https://doi.org/10.3390/educsci10030063">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+```
+
+## Manuscripts Under Review
+
+```{=html}
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Negotiation climate moderates the relationships between implicit motives and negotiation performance</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong></p>
+      <p class="pub-meta">
+        <span class="pub-journal">Motivation Science</span>
+        <span class="pub-status">Under review</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="This manuscript is under review; a preprint will be linked here once available.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Revisiting individual differences in negotiation performance: The role of implicit motives and explicit motives</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, &amp; Lang, J. W. B.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Journal of Behavioral Decision Making</span>
+        <span class="pub-status">Under review</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="This manuscript is under review; a preprint will be linked here once available.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">(Dis)Integration of high-skilled migrants at the workplace: Determinants and consequences</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, Aykut, N., &amp; London, M.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">German Journal of Human Resource Management</span>
+        <span class="pub-status">Under review</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="This manuscript is under review; a preprint will be linked here once available.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Behind the links: Do implicit motives predict network positions?</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, &amp; Erbecer, M. S.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">British Journal of Management</span>
+        <span class="pub-status">Under review</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="This manuscript is under review; a preprint will be linked here once available.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Recognizing the subjectivity of personnel decisions: Roles of risk, implicit motives, and intuition</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, &amp; London, M.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Personnel Psychology</span>
+        <span class="pub-status">Under review</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="This manuscript is under review; a preprint will be linked here once available.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+```
+
+## Working Papers
+
+```{=html}
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Who listens at the workplace? Examining personality correlates of perceived listening</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong></p>
+      <p class="pub-meta">
+        <span class="pub-journal">Journal of Research in Personality</span>
+        <span class="pub-status">Working paper</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="This paper is in preparation — please e-mail me if you would like to see a draft.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">The additive and interactive effects of motivation and skills on performance: A multi-domain perspective</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong></p>
+      <p class="pub-meta">
+        <span class="pub-journal">Human Performance</span>
+        <span class="pub-status">Working paper</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="This paper is in preparation — please e-mail me if you would like to see a draft.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Implicit motives predict intuitive decision making in personnel selection</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, &amp; London, M.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Motivation and Emotion</span>
+        <span class="pub-status">Working paper</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="This paper is in preparation — please e-mail me if you would like to see a draft.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Explicit motives and value claiming in negotiations: Does the negotiation climate play a moderating role?</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, &amp; Ohlig, J.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Journal of Research in Personality</span>
+        <span class="pub-status">Working paper</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="This paper is in preparation — please e-mail me if you would like to see a draft.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Investigating the role of hiring personnel&#x27;s and applicants&#x27; implicit motives in personnel selection: An agent-based modeling approach</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, &amp; London, M.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">Human Resource Management Journal</span>
+        <span class="pub-status">Working paper</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="This paper is in preparation — please e-mail me if you would like to see a draft.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-head">
+    <div class="pub-card-info">
+      <h3 class="pub-title">Adaptive leadership</h3>
+      <p class="pub-authors"><strong>Bakaç, C.</strong>, Zyberaj, J., &amp; London, M.</p>
+      <p class="pub-meta">
+        <span class="pub-journal">International Handbook of Leadership (S. K. Johnson &amp; R. Riggio, Eds.)</span>
+        <span class="pub-status">Book chapter</span>
+      </p>
+    </div>
+    <div class="pub-actions">
+      <a class="pub-btn pub-btn-primary" role="button" href="#" target="_blank" rel="noopener"
+         data-href=""
+         data-msg="This paper is in preparation — please e-mail me if you would like to see a draft.">Read paper</a>
+    </div>
+  </div>
+  <p class="pub-note" role="status" aria-live="polite"></p>
+</div>
+
+```
+
+:::
+
+
+```{=html}
+<script>
+(function () {
+  if (window.__pubBtnInit) return;      // guard so copied cards don't double-bind
+  window.__pubBtnInit = true;
+  document.addEventListener('click', function (e) {
+    var btn = e.target.closest('.pub-btn[data-msg]');
+    if (!btn) return;
+    var url = (btn.getAttribute('data-href') || '').trim();
+    if (url) return;                     // real link present -> let it navigate
+    e.preventDefault();                  // no link yet -> show the message
+    var card = btn.closest('.pub-card');
+    var note = card && card.querySelector('.pub-note');
+    if (!note) return;
+    note.textContent = btn.getAttribute('data-msg');
+    note.classList.add('is-visible');
+    clearTimeout(note.__t);
+    note.__t = setTimeout(function () { note.classList.remove('is-visible'); }, 6000);
+  });
+})();
+</script>
+```

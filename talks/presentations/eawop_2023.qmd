@@ -1,0 +1,22 @@
+---
+title: "Linking implicit motives and explicit motives with negotiation outcomes"
+description: "21st EAWOP Conference, Katowice"
+author: "Cafer Bakaç"
+date: "2023-05-24"
+categories:
+  - Conference
+  - Negotiation
+  - Implicit Motives
+link-external-newwindow: true
+---
+
+**Event:** 21st Conference of the European Association of Work and Organizational Psychology\
+**Location:** Katowice, Poland\
+**Authors:** Bakaç, C., Kehr, H. M., & Lang, J. W. B.\
+**Symposium:** Predicting leadership, negotiation, aggression, and faking with implicit measures
+(Chairs: M. Runge & J. W. B. Lang)
+
+## Context
+
+Presented evidence that implicit and explicit motives contribute differently to negotiation
+outcomes, and that treating them as interchangeable predictors obscures both effects.

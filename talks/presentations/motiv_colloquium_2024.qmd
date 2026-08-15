@@ -1,0 +1,21 @@
+---
+title: "Behind the links: Do implicit motives predict network positions?"
+description: "43rd Motivational Psychology Colloquium, Munich"
+author: "Cafer Bakaç"
+date: "2024-10-01"
+categories:
+  - Conference
+  - Implicit Motives
+  - Social Networks
+link-external-newwindow: true
+---
+
+**Event:** 43rd Motivational Psychology Colloquium\
+**Location:** Munich, Germany\
+**Authors:** Bakaç, C.
+
+## Context
+
+Social network position is usually explained by structural opportunity or by broad
+personality traits. This paper asked whether implicit motives — particularly affiliation
+and power — predict where people end up in workplace networks.

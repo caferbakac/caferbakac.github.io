@@ -1,0 +1,15 @@
+---
+title: "Motivational determinants of negotiation behaviors: Investigating the role of implicit and explicit motives"
+description: "12. Kongress für Arbeits-, Organisations- und Wirtschaftspsychologie, Chemnitz"
+author: "Cafer Bakaç"
+date: "2021-09-01"
+categories:
+  - Conference
+  - Negotiation
+  - Implicit Motives
+link-external-newwindow: true
+---
+
+**Event:** 12. Kongress für Arbeits-, Organisations- und Wirtschaftspsychologie, DGPs\
+**Location:** Chemnitz, Germany\
+**Authors:** Bakaç, C., & Kehr, H. M.

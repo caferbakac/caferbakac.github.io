@@ -1,0 +1,23 @@
+---
+title: "Implicit Motives at Scale: Using LLMs to Link Non-Conscious Needs to Work Outcomes"
+description: "Invited talk, Stony Brook University"
+author: "Cafer Bakaç"
+date: "2025-06-01"
+categories:
+  - Invited Talk
+  - Implicit Motives
+  - Large Language Models
+link-external-newwindow: true
+---
+
+**Event:** Invited research talk, College of Business\
+**Location:** State University of New York at Stony Brook, USA\
+**Host:** Prof. Dr. Manuel London
+
+## Context
+
+Traditional measures of implicit motives rely on trained coders scoring picture-story
+exercises, which limits the scale at which motive research can be conducted. This talk
+presented work on using large language models to code motive imagery, and asked what
+becomes possible for organizational research once motive assessment is no longer
+constrained by manual coding capacity.

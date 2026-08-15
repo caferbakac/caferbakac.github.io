@@ -1,0 +1,20 @@
+---
+title: "The Hidden Success Secrets of Data-Driven Organizations"
+description: "Invited talk, University of Bamberg"
+author: "Cafer Bakaç"
+date: "2022-11-01"
+categories:
+  - Invited Talk
+  - Data Science
+  - Future of Work
+link-external-newwindow: true
+---
+
+**Event:** Invited talk — "How Do Data Impact New Workplaces? A Data Scientist Perspective"\
+**Location:** University of Bamberg, Germany
+
+## Context
+
+Drawing on both organizational research and applied data science practice, this talk
+examined what actually distinguishes organizations that use data well from those that
+merely collect it, and what that difference means for how workplaces are designed.

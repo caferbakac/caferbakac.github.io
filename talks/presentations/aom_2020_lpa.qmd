@@ -1,0 +1,15 @@
+---
+title: "Predicting telecommuting preferences and job outcomes amid COVID-19 pandemic: A latent profile analysis"
+description: "80th Annual Meeting of the Academy of Management"
+author: "Cafer Bakaç"
+date: "2020-08-07"
+categories:
+  - Conference
+  - COVID-19
+  - Latent Profile Analysis
+link-external-newwindow: true
+---
+
+**Event:** 80th Annual Meeting of the Academy of Management\
+**Session:** Organizational Behavior Division Rapid Research Plenary — COVID-19 & Organizational Behavior\
+**Authors:** Bakaç, C., Zyberaj, J., & Barela, J. C.

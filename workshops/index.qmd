@@ -1,0 +1,11 @@
+---
+pagetitle: "Workshops | Cafer Bakaç"
+listing:
+  - id: workshops
+    contents: trainings
+    type: default
+    sort: date desc
+    categories: true
+---
+
+Methods workshops and training sessions, mostly on measurement and applied statistics in R.

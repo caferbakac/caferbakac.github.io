@@ -1,0 +1,21 @@
+---
+title: "An Introduction to Latent Profile Analysis Using R"
+description: "Workshop"
+author: "Cafer Bakaç"
+date: "2021-11-01"
+categories:
+  - Workshop
+  - R
+  - Latent Profile Analysis
+link-external-newwindow: true
+---
+
+**Event:** Methods workshop, University of Bamberg\
+**Location:** University of Bamberg, Germany
+
+## Context
+
+Latent profile analysis groups people by their pattern of scores rather than splitting a
+sample on one variable at a time. This workshop covered when a person-centered approach is
+warranted, how to choose the number of profiles without over-fitting, and how to run and
+report the analysis in R.

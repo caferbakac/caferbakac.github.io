@@ -1,0 +1,22 @@
+---
+title: "Implicit motives as the missing link between transformational leadership behaviors and follower outcomes"
+description: "80th Annual Meeting of the Academy of Management — Best Paper Award"
+author: "Cafer Bakaç"
+date: "2020-08-06"
+categories:
+  - Conference
+  - Award
+  - Leadership
+  - Implicit Motives
+link-external-newwindow: true
+---
+
+**Event:** 80th Annual Meeting of the Academy of Management\
+**Authors:** Kehr, H. M., Graff, M., & Bakaç, C.\
+**Award:** Best Paper Award, Organizational Behavior Division
+
+## Context
+
+This paper argued that transformational leadership does not affect all followers equally:
+its effects depend on the motives followers bring with them. It received the Organizational
+Behavior Division's Best Paper Award.

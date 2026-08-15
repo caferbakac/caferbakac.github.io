@@ -1,0 +1,12 @@
+---
+pagetitle: "Blog | Cafer Bakaç"
+listing:
+  - id: posts
+    contents: posts
+    type: default
+    sort: date desc
+    categories: true
+    feed: true
+---
+
+Notes on motivation research, methods, and academic life.

@@ -1,0 +1,20 @@
+---
+title: "Getting to the bargaining table: The role of motives and traits in negotiation initiation"
+description: "52. Kongress der Deutschen Gesellschaft für Psychologie, Hildesheim"
+author: "Cafer Bakaç"
+date: "2022-09-01"
+categories:
+  - Conference
+  - Poster
+  - Negotiation
+link-external-newwindow: true
+---
+
+**Event:** 52. Kongress der Deutschen Gesellschaft für Psychologie (poster presentation)\
+**Location:** Hildesheim, Germany\
+**Authors:** Bakaç, C., & Kehr, H. M.
+
+## Context
+
+Most negotiation research studies people who are already at the table. This work looked one
+step earlier, at who initiates a negotiation in the first place.

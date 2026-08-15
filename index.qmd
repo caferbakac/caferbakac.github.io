@@ -1,0 +1,35 @@
+---
+title: "Postdoctoral Researcher in Organizational Psychology"
+subtitle: "[Technical University of Munich](https://www.tum.de/)"
+image: images/profile.jpg
+card-style: "summary"
+css: index.css
+about:
+    template: trestles
+    image-shape: round
+    links:
+        - icon: envelope
+          text: e-mail
+          href: mailto:cafer.bakac@tum.de
+        - icon: mortarboard-fill
+          text: Scholar
+          href: https://scholar.google.com/citations?user=REPLACE_ME
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/REPLACE_ME/
+        - icon: github
+          text: Github
+          href: https://github.com/caferbakac
+---
+
+I am a postdoctoral researcher at the [TUM School of Management](https://www.mgt.tum.de/), Technical University of Munich, where I study what drives people at work — and how much of it they are aware of. My research examines implicit and explicit motives and how they shape behavior in negotiations, leadership relationships, personnel decisions, and social networks in organizations. Much of it turns on a single question: when what people consciously want diverges from what non-consciously moves them, what happens to their performance, their decisions, and their wellbeing?
+
+Alongside this substantive work, I develop and apply quantitative methods for organizational research, including latent profile and transition analysis, polynomial regression with response surface analysis, Bayesian mixed models, and agent-based modeling. I completed my PhD at TUM and have held visiting positions at Stony Brook University and Ghent University. My current project, funded through a German Research Foundation application, extends motive research using large language models.
+
+I also work part-time as a data scientist, which keeps the methodological side of my work close to applied problems.
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+:::{.text-center}
+[<i class="fas fa-download"></i> Download CV](CV/Cafer-Bakac-CV.pdf){.btn .btn-sm .btn-download-cv}
+:::

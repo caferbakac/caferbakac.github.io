@@ -1,0 +1,15 @@
+---
+title: "Linking implicit motives and explicit motives with negotiation performance"
+description: "82nd Annual Meeting of the Academy of Management, Seattle"
+author: "Cafer Bakaç"
+date: "2022-08-05"
+categories:
+  - Conference
+  - Negotiation
+  - Implicit Motives
+link-external-newwindow: true
+---
+
+**Event:** 82nd Annual Meeting of the Academy of Management\
+**Location:** Seattle, WA, USA\
+**Authors:** Bakaç, C., Kehr, H. M., & Lang, J. W. B.

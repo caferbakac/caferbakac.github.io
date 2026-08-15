@@ -1,0 +1,15 @@
+---
+title: "Welche Rolle spielen familiäre Verpflichtungen und die Nützlichkeit von gegenwärtigen Lernaufgaben für zukunftsbezogene Karriereziele?"
+description: "6. Tagung der Gesellschaft für Empirische Bildungsforschung, Basel"
+author: "Cafer Bakaç"
+date: "2018-02-15"
+categories:
+  - Conference
+  - Education
+  - Motivation
+link-external-newwindow: true
+---
+
+**Event:** 6. Tagung der Gesellschaft für Empirische Bildungsforschung (GEBF)\
+**Location:** Basel, Switzerland\
+**Authors:** Mok, S. Y., Bakaç, C., Seidel, T., & Froehlich, L.
