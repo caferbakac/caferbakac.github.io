@@ -13,10 +13,10 @@ about:
           href: mailto:cafer.bakac@tum.de
         - icon: mortarboard-fill
           text: Scholar
-          href: https://scholar.google.com/citations?user=REPLACE_ME
+          href: https://scholar.google.com/citations?user=W1FtKMcAAAAJ&hl=de&oi=ao
         - icon: linkedin
           text: LinkedIn
-          href: https://www.linkedin.com/in/REPLACE_ME/
+          href: https://www.linkedin.com/in/cafer-bakac/
         - icon: github
           text: Github
           href: https://github.com/caferbakac

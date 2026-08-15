@@ -1,0 +1,37 @@
+[
+  {
+    "listing": "/workshops/index.html",
+    "items": [
+      "/workshops/trainings/lpa_r.html",
+      "/workshops/trainings/measurement_r.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/hello.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/presentations/stony_brook.html",
+      "/talks/presentations/motiv_colloquium_2024.html",
+      "/talks/presentations/eawop_2023.html",
+      "/talks/presentations/bamberg_data.html",
+      "/talks/presentations/dgps_2022.html",
+      "/talks/presentations/aom_2022.html",
+      "/talks/presentations/ingroup_2022.html",
+      "/talks/presentations/aps_2022.html",
+      "/talks/presentations/bilkent_motives.html",
+      "/talks/presentations/eawop_2022.html",
+      "/talks/presentations/dgps_aow_2021.html",
+      "/talks/presentations/aom_2021.html",
+      "/talks/presentations/aom_2020_lpa.html",
+      "/talks/presentations/aom_2020_award.html",
+      "/talks/presentations/wuerzburg_2019.html",
+      "/talks/presentations/aps_2019.html",
+      "/talks/presentations/gebf_2018.html"
+    ]
+  }
+]
