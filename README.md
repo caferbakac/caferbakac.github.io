@@ -1,7 +1,5 @@
 # caferbakac.github.io — Quarto site
 
-Built in the same structure and styling as
-[mustafaslancoto.github.io](https://github.com/mustafaslanCoto/mustafaslanCoto.github.io):
 Quarto website, `cosmo` theme, the same `styles.css` / `index.css` / `publications.css`,
 and the same GitHub Action that renders the site on push. Content is yours.
 
